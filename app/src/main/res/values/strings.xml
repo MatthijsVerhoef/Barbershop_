@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Barbershop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meer_weten_over_onze_medewerkers_bekijk_dan_de_persoonlijke_pagina_s_onder_de_categorie_team_op_onze_homepagina">Meer weten over onze medewerkers? bekijk dan de persoonlijke pagina\'s onder de categorie team op onze homepagina.</string>
+    <string name="wanneer_u_geen_voorkeur_opgeeft_wordt_u_automatisch_ingedeeld_bij_een_van_onze_medewerkers_dit_hangt_af_van_de_gewenste_tijd_en_datum_die_u_opgeeft_onze_medewerkers_bestaan_uit_hugo_degens_mark_van_duin_en_hannah_houten_geen_zorgen_als_u_geen_persoonlijke_voorkeur_heeft_want_bij_de_barber_shop_werken_de_beste_medewerkers_die_er_alles_aan_doen_om_u_tevreden_te_stellen">Wanneer u geen voorkeur opgeeft wordt u automatisch ingedeeld bij een van onze medewerkers. Dit hangt af van de gewenste tijd en datum die u opgeeft. Onze medewerkers bestaan uit Hugo Degens, Mark van Duin en Hannah Houten. Geen zorgen als u geen persoonlijke voorkeur heeft want bij de Barber Shop werken de beste medewerkers die er alles aan doen om u tevreden te stellen.</string>
+    <string name="geen_voorkeur">Geen voorkeur</string>
+    <string name="extra_s">Extra\'s...</string>
+    <string name="reserveringen">Reserveringen...</string>
+    <string name="voor_hem_en_voor_haar">Voor hem en voor haar</string>
+    <string name="de_barbershop">De Barbershop</string>
+    <string name="email_hannahhouten_hotmail_com_tel_31612345678">Email: HannahHouten@hotmail.com Tel: +31612345678</string>
+    <string name="verder_weet_ze_alles_over_de_producten_die_bij_ons_te_vinden_zijn_persoonlijk_contact_opnemen_met_hannah_dat_kan_voor_vragen_over_onze_producten_of_voor_specifieke_verzoeken_kunt_u_contact_op_nemen_via_de_volgende_gegevens">Verder weet ze alles over de producten die bij ons te vinden zijn. Persoonlijk contact opnemen met Hannah? Dat kan! Voor vragen over onze producten of voor specifieke verzoeken kunt u contact op nemen via de volgende gegevens.</string>
+    <string name="hannah_houten_is_24_jaar_en_is_sinds_2016_deel_van_ons_team_bij_de_barber_shop_ze_is_in_2014_afgestudeerd_van_de_kappersacademie_en_heeft_sindsdien_bij_ons_ervaring_opgedaan_ze_is_gespecialiseerd_in_het_knippen_verven_en_stylen">Hannah Houten is 24 jaar en is sinds 2016 deel van ons team bij de Barber Shop. Ze is in 2014 afgestudeerd van de kappersacademie en heeft sindsdien bij ons ervaring opgedaan. Ze is gespecialiseerd in het knippen, verven en stylen.</string>
+    <string name="over_hannah">Over Hannah</string>
+    <string name="hannah_houten">Hannah Houten</string>
+    <string name="email_hugodegens_hotmail_com_tel_31634567890">Email: HugoDegens@hotmail.com Tel: +31634567890</string>
+    <string name="hugo_is_erg_betrokken_en_is_van_alle_markten_thuis_dus_voor_alle_vragen_of_klachten_kunt_u_bij_hugo_terecht">Hugo is erg betrokken en is van alle markten thuis, dus voor alle vragen of klachten kunt u bij Hugo terecht.</string>
+    <string name="hugo_degens_is_een_van_de_oprichters_hij_is_dus_vanaf_het_begin_deel_van_het_team_hij_zit_al_24_jaar_in_het_kappersvak_dus_hij_heeft_genoeg_ervaring_opgedaan_over_de_tijd_hij_is_samen_met_mark_van_duin_de_barbershop_begonnen">Hugo Degens is een van de oprichters. Hij is dus vanaf het begin deel van het team. Hij zit al 24 jaar in het kappersvak dus hij heeft genoeg ervaring opgedaan over de tijd. Hij is samen met Mark van Duin de Barbershop begonnen.</string>
+    <string name="over_hugo">Over Hugo</string>
+    <string name="hugo_degens">Hugo Degens</string>
+    <string name="mark_van_duin">Mark van Duin</string>
+    <string name="over_mark">Over Mark</string>
+    <string name="mark_van_duin_is_een_van_de_oprichters_hij_is_dus_vanaf_het_begin_deel_van_het_team_hij_heeft_hiervoor_stage_gelopen_bij_een_lokale_kapperszaak_waarna_hij_zijn_eigen_bedrijf_wilde_beginnen">Mark van Duin is een van de oprichters. Hij is dus vanaf het begin deel van het team. Hij heeft hiervoor stage gelopen bij een lokale kapperszaak waarna hij zijn eigen bedrijf wilde beginnen.</string>
+    <string name="voor_klachten_kunt_u_terecht_bij_mark_de_tevredenheid_van_de_klant_staat_enorm_hoog_op_zijn_lijstje_persoonlijke_vragen_aan_mark_stellen_dat_kan">Voor klachten kunt u terecht bij Mark. De tevredenheid van de klant staat enorm hoog op zijn lijstje. Persoonlijke vragen aan mark stellen? Dat kan!</string>
+    <string name="email_markvanduin_hotmail_com_tel_31623456789">Email: MarkvanDuin@hotmail.com Tel: +31623456789</string>
+    <string name="openingstijden">Openingstijden</string>
+    <string name="tijdens_vakanties_en_feestdagen_kunnen_de_openingstijden_afwijken">Tijdens vakanties en feestdagen kunnen de openingstijden afwijken.</string>
+</resources>

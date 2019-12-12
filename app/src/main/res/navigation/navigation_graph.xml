@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/homeFragment2">
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.example.barbershop.homeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment2_to_geenVoorkeurFragment"
+            app:destination="@id/geenVoorkeurFragment" />
+        <action
+            android:id="@+id/action_homeFragment2_to_datumSelectFragment"
+            app:destination="@id/datumSelectFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kapperHFragment"
+        android:name="com.example.barbershop.kapperHFragment"
+        android:label="fragment_kapper_h"
+        tools:layout="@layout/fragment_kapper_h" />
+    <fragment
+        android:id="@+id/kapperHuFragment"
+        android:name="com.example.barbershop.kapperHuFragment"
+        android:label="fragment_kapper_hu"
+        tools:layout="@layout/fragment_kapper_hu" />
+    <fragment
+        android:id="@+id/geenVoorkeurFragment"
+        android:name="com.example.barbershop.geenVoorkeurFragment"
+        android:label="fragment_geen_voorkeur"
+        tools:layout="@layout/fragment_geen_voorkeur" />
+    <fragment
+        android:id="@+id/kapperMFragment"
+        android:name="com.example.barbershop.kapperMFragment"
+        android:label="fragment_kapper_m"
+        tools:layout="@layout/fragment_kapper_m" />
+    <fragment
+        android:id="@+id/datumSelectFragment"
+        android:name="com.example.barbershop.datumSelectFragment"
+        android:label="fragment_datum_select"
+        tools:layout="@layout/fragment_datum_select" />
+    <fragment
+        android:id="@+id/openingstijdenFragment"
+        android:name="com.example.barbershop.openingstijdenFragment"
+        android:label="fragment_openingstijden"
+        tools:layout="@layout/fragment_openingstijden" />
+    <fragment
+        android:id="@+id/prijzenFragment"
+        android:name="com.example.barbershop.prijzenFragment"
+        android:label="fragment_prijzen"
+        tools:layout="@layout/fragment_prijzen" />
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="com.example.barbershop.contactFragment"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" />
+</navigation>
